@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sanchana
+- 👀 I’m interested in web and java development
+- 🌱 I’m currently learning java full stack
+- 📫 How to reach me 📧email: sanchanashankars@gmail.com
